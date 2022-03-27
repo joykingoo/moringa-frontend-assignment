@@ -16,3 +16,59 @@ header {
     background-repeat: no-repeat;
     overflow: hidden;
 }
+
+#cont {
+    background-color: grey;
+}
+
+#home,
+#products {
+    color: white;
+}
+
+#comfort {
+    margin-top: 10%;
+}
+
+#comfort2 {
+    margin-top: 3%;
+}
+
+.scroll {
+    margin-top: 20%;
+    font-weight: 900;
+}
+
+#men h3 {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+    color: grey;
+    text-align: center;
+}
+
+#men h3::after {
+    content: "";
+    width: 90%;
+    height: 1px;
+    display: inline-block;
+    background: grey;
+    margin: 4px 10px;
+}
+
+.pages1 ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-right: 4%;
+    color: black;
+
+}
+
+.card-body ul {
+    list-style: none;
+    display: flex;
+    justify-content: end;
+
+}
