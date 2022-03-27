@@ -159,3 +159,21 @@ header {
 .card-footer p {
     padding-left: 8%;
 }
+
+#contact {
+    background-color: rgb(46, 44, 44);
+}
+
+.white {
+    color: white;
+}
+
+#social h3 {
+    color: white;
+    padding-left: 10%;
+
+}
+
+#social ul {
+    list-style: none;
+}
