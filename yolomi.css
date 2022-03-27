@@ -72,3 +72,41 @@ header {
     justify-content: end;
 
 }
+
+#women h3 {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+    color: grey;
+    text-align: center;
+
+}
+
+#women h3::after {
+    content: "";
+    width: 90%;
+    height: 1px;
+    display: inline-block;
+    background: grey;
+    margin: 4px 10px;
+}
+
+.pages2 ul {
+    list-style: none;
+
+}
+
+.pages2 ul p {
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+.pages2 ion-icon {
+    padding-left: 20px;
+
+}
+
+.card {
+    height: 100%;
+    background: lightgray;
+}
