@@ -1,4 +1,4 @@
-
+  
 * {
     margin: 0;
     padding: 0;
@@ -136,7 +136,12 @@ header {
     display: inline-block;
     background: #908361;
     margin: 4px 12px;
+
+
+
+
 }
+
 
 #about p {
     text-align: center;
