@@ -110,3 +110,31 @@ header {
     height: 100%;
     background: lightgray;
 }
+
+#cont-about {
+    background-image: url(/home/joy/Desktop/frontend-assignment/assets/backgrounds/about.jpg);
+    height: 40vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+
+#about h3 {
+    color: white;
+    margin-top: 6%;
+    text-align: center;
+}
+
+#about h3::before,
+#about h3::after {
+    content: "";
+    width: 30%;
+    height: 1px;
+    display: inline-block;
+    background: #908361;
+    margin: 4px 12px;
+}
+
