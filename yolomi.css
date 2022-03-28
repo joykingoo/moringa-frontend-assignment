@@ -112,7 +112,7 @@ header {
 }
 
 #cont-about {
-    background-image: url(/home/joy/Desktop/frontend-assignment/assets/backgrounds/about.jpg);
+    background-image: url(assets/backgrounds/about.jpg);
     height: 40vh;
     width: 100%;
     background-position: center;
@@ -136,9 +136,6 @@ header {
     display: inline-block;
     background: #908361;
     margin: 4px 12px;
-
-
-
 
 }
 
