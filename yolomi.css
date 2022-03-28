@@ -8,7 +8,7 @@
 }
 
 header {
-    background-image: url(/assets/backgrounds/hero.jpg);
+    background-image: url(assets/backgrounds/hero.jpg);
     height: 100vh;
     width: 100%;
     background-position: top;
